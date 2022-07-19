@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamimo76
 - 👀 I’m interested in learning coding/web development, crocheting, cooking and solving puzzles.
-- 🌱 I’m currently learning Bootstrap/fullstack web development.
+- 🌱 I just graduated Nucamp fullstack web development and looking for my first coding job.
 - 💞️ I’m looking to collaborate on anything since I'm starting in this new journey.
 - 📫 How to reach me jamiorris@gmail.com
 
